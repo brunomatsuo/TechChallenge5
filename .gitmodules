@@ -1,0 +1,12 @@
+[submodule "pagamento-api"]
+	path = pagamento-api
+	url = https://github.com/brunomatsuo/pagamento-api.git
+[submodule "carrinho-api"]
+	path = carrinho-api
+	url = https://github.com/brunomatsuo/carrinho-api.git
+[submodule "gestao-itens-api"]
+	path = gestao-itens-api
+	url = https://github.com/brunomatsuo/gestao-itens-api.git
+[submodule "usuario-api"]
+	path = usuario-api
+	url = https://github.com/brunomatsuo/usuario-api.git
